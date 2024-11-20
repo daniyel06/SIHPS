@@ -34,26 +34,26 @@ The platform will simplify event registration and management, enabling alumni to
 
 
 ## Technology Stack
-React.js with Tailwind CSS
-Bootstrap for styling
-Node.js with Express.js
-Django
-Spring Boot for APIs
-PostgreSQL/MySQL
-MongoDB
-OAuth2.0
-JWT
+  React.js with Tailwind CSS
+  Bootstrap for styling
+  Node.js with Express.js
+  Django
+  Spring Boot for APIs
+  PostgreSQL/MySQL
+  MongoDB
+  OAuth2.0
+  JWT
 
 ## Dependencies
-Mapping Service: 10 days
-Data Collection: 10 days
-Budget: ₹50,000
-Frontend Development (Web): 15 days
-Backend Development: 20 days
-Mobile Application Development: 20 days
-Testing & QA: 10 days
-Deployment: 5 days
-User Training & Documentation: 5 days
-Maintenance & Support: Ongoing, 1 year
-Total Estimated Time: 90 days
-Total Estimated Budget: ₹50,000
+  Mapping Service: 10 days
+  Data Collection: 10 days
+  Budget: ₹50,000
+  Frontend Development (Web): 15 days
+  Backend Development: 20 days
+  Mobile Application Development: 20 days
+  Testing & QA: 10 days
+  Deployment: 5 days
+  User Training & Documentation: 5 days
+  Maintenance & Support: Ongoing, 1 year
+  Total Estimated Time: 90 days
+  Total Estimated Budget: ₹50,000
